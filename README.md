@@ -2,3 +2,5 @@
 Lab 1 - Basic Python Programming
 
 Lab 2 - Python Programming for Data Analysis
+
+Lab 3 - Python Programming for Supervised Learning
